@@ -36,7 +36,7 @@ everything comes together.
 
 | Notebook | Topic | Time |
 |---|---|---|
-| `01_sequences_biopython.ipynb` | Reading FASTA files, the `SeqRecord` and `Seq` classes | ~8 min |
+| `01_sequences_biopython.ipynb` | Reading FASTA files, the `SeqRecord` and `Seq` classes | ~12 min |
 | `02_pairwise_alignment.ipynb` | Alignment, BLOSUM62, normalizing scores | ~20 min |
 | `03_building_an_ssn.ipynb` | All-vs-all scoring, building and thresholding the network, mystery proteins, 3D structure | ~35 min |
 | `04_bonus_mmseqs_foldseek.ipynb` | *(Bonus)* Running MMseqs2 and Foldseek from Python with `subprocess` | if time allows |
