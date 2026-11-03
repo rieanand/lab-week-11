@@ -1,0 +1,17 @@
+# Optional: only needed for the bonus notebook (04_bonus_mmseqs_foldseek.ipynb).
+# MMseqs2 and Foldseek come from bioconda, which supports Linux, macOS, and WSL (not native Windows).
+name: chem274A_ssn_bonus
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - biopython=1.88
+  - networkx
+  - matplotlib
+  - pandas
+  - numpy
+  - jupyterlab
+  - notebook
+  - mmseqs2=18.8cc5c
+  - foldseek=10.941cd33

@@ -1,0 +1,75 @@
+id,accession,protein_type,organism,length
+sp|P69905|HBA_HUMAN,P69905,hemoglobin_alpha,Homo sapiens (Human),142
+sp|P01966|HBA_BOVIN,P01966,hemoglobin_alpha,Bos taurus (Bovine),142
+sp|P01942|HBA_MOUSE,P01942,hemoglobin_alpha,Mus musculus (Mouse),142
+sp|P01946|HBA_RAT,P01946,hemoglobin_alpha,Rattus norvegicus (Rat),142
+sp|P01958|HBA_HORSE,P01958,hemoglobin_alpha,Equus caballus (Horse),142
+sp|P69907|HBA_PANTR,P69907,hemoglobin_alpha,Pan troglodytes (Chimpanzee),142
+sp|P01994|HBA_CHICK,P01994,hemoglobin_alpha,Gallus gallus (Chicken),142
+sp|O42425|HBA2_GADMO,O42425,hemoglobin_alpha,Gadus morhua (Atlantic cod),143
+sp|P06636|HBA3_XENLA,P06636,hemoglobin_alpha,Xenopus laevis (African clawed frog),142
+sp|P01948|HBA_RABIT,P01948,hemoglobin_alpha,Oryctolagus cuniculus (Rabbit),142
+sp|Q90487|HBA_DANRE,Q90487,hemoglobin_alpha,Danio rerio (Zebrafish) (Brachydanio rerio),143
+sp|P60529|HBA_CANLF,P60529,hemoglobin_alpha,Canis lupus familiaris (Dog) (Canis familiaris),141
+sp|P01965|HBA_PIG,P01965,hemoglobin_alpha,Sus scrofa (Pig),141
+sp|P02019|HBA1_ONCMY,P02019,hemoglobin_alpha,Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri),144
+sp|P68871|HBB_HUMAN,P68871,hemoglobin_beta,Homo sapiens (Human),147
+sp|P02070|HBB_BOVIN,P02070,hemoglobin_beta,Bos taurus (Bovine),145
+sp|Q90486|HBB1_DANRE,Q90486,hemoglobin_beta,Danio rerio (Zebrafish) (Brachydanio rerio),148
+sp|P02112|HBB_CHICK,P02112,hemoglobin_beta,Gallus gallus (Chicken),147
+sp|P68873|HBB_PANTR,P68873,hemoglobin_beta,Pan troglodytes (Chimpanzee),147
+sp|P02067|HBB_PIG,P02067,hemoglobin_beta,Sus scrofa (Pig),147
+sp|P02088|HBB1_MOUSE,P02088,hemoglobin_beta,Mus musculus (Mouse),147
+sp|P11517|HBB2_RAT,P11517,hemoglobin_beta,Rattus norvegicus (Rat),147
+sp|P02057|HBB_RABIT,P02057,hemoglobin_beta,Oryctolagus cuniculus (Rabbit),147
+sp|P02132|HBB1_XENLA,P02132,hemoglobin_beta,Xenopus laevis (African clawed frog),146
+sp|P02141|HBB4_ONCMY,P02141,hemoglobin_beta,Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri),148
+sp|O13077|HBB_GADMO,O13077,hemoglobin_beta,Gadus morhua (Atlantic cod),147
+sp|P60524|HBB_CANLF,P60524,hemoglobin_beta,Canis lupus familiaris (Dog) (Canis familiaris),146
+sp|P02062|HBB_HORSE,P02062,hemoglobin_beta,Equus caballus (Horse),146
+sp|P02144|MYG_HUMAN,P02144,myoglobin,Homo sapiens (Human),154
+sp|Q6VN46|MYG_DANRE,Q6VN46,myoglobin,Danio rerio (Zebrafish) (Brachydanio rerio),147
+sp|Q9QZ76|MYG_RAT,Q9QZ76,myoglobin,Rattus norvegicus (Rat),154
+sp|P04247|MYG_MOUSE,P04247,myoglobin,Mus musculus (Mouse),154
+sp|P02192|MYG_BOVIN,P02192,myoglobin,Bos taurus (Bovine),154
+sp|P68082|MYG_HORSE,P68082,myoglobin,Equus caballus (Horse),154
+sp|P02197|MYG_CHICK,P02197,myoglobin,Gallus gallus (Chicken),154
+sp|P63113|MYG_CANLF,P63113,myoglobin,Canis lupus familiaris (Dog) (Canis familiaris),154
+sp|P02170|MYG_RABIT,P02170,myoglobin,Oryctolagus cuniculus (Rabbit),154
+sp|P02189|MYG_PIG,P02189,myoglobin,Sus scrofa (Pig),154
+sp|P02145|MYG_PANTR,P02145,myoglobin,Pan troglodytes (Chimpanzee),154
+sp|Q9NPG2|NGB_HUMAN,Q9NPG2,neuroglobin,Homo sapiens (Human),151
+sp|Q90YJ2|NGB_DANRE,Q90YJ2,neuroglobin,Danio rerio (Zebrafish) (Brachydanio rerio),159
+sp|Q99JA8|NGB_RAT,Q99JA8,neuroglobin,Rattus norvegicus (Rat),151
+sp|Q9ER97|NGB_MOUSE,Q9ER97,neuroglobin,Mus musculus (Mouse),151
+sp|Q6WZ19|NGB_BOVIN,Q6WZ19,neuroglobin,Bos taurus (Bovine),151
+sp|P86880|NGB_CHAAC,P86880,neuroglobin,Chaenocephalus aceratus (Blackfin icefish) (Chaenichthys aceratus),159
+sp|Q3KN66|NGB_PANTR,Q3KN66,neuroglobin,Pan troglodytes (Chimpanzee),151
+sp|Q6EV97|NGB_RABIT,Q6EV97,neuroglobin,Oryctolagus cuniculus (Rabbit),151
+sp|Q6WZ17|NGB_PIG,Q6WZ17,neuroglobin,Sus scrofa (Pig),151
+sp|Q90W04|NGB_TETNG,Q90W04,neuroglobin,Tetraodon nigroviridis (Spotted green pufferfish) (Chelonodon nigroviridis),159
+sp|P86881|NGB_DISMA,P86881,neuroglobin,Dissostichus mawsoni (Antarctic cod),159
+sp|Q6WZ18|NGB_CANLF,Q6WZ18,neuroglobin,Canis lupus familiaris (Dog) (Canis familiaris),151
+sp|Q6WZ20|NGB_MACMU,Q6WZ20,neuroglobin,Macaca mulatta (Rhesus macaque),151
+sp|P59743|NGB2_ONCMY,P59743,neuroglobin,Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri),159
+sp|P59742|NGB1_ONCMY,P59742,neuroglobin,Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri),159
+sp|Q8WWM9|CYGB_HUMAN,Q8WWM9,cytoglobin,Homo sapiens (Human),190
+sp|Q9CX80|CYGB_MOUSE,Q9CX80,cytoglobin,Mus musculus (Mouse),190
+sp|Q8UUR3|CYGB1_DANRE,Q8UUR3,cytoglobin,Danio rerio (Zebrafish) (Brachydanio rerio),174
+sp|Q575S8|CYGB2_DANRE,Q575S8,cytoglobin,Danio rerio (Zebrafish) (Brachydanio rerio),179
+sp|Q921A4|CYGB_RAT,Q921A4,cytoglobin,Rattus norvegicus (Rat),190
+sp|Q575S9|CYGB2_ORYLA,Q575S9,cytoglobin,Oryzias latipes (Japanese rice fish) (Japanese killifish),179
+sp|Q575T0|CYGB1_ORYLA,Q575T0,cytoglobin,Oryzias latipes (Japanese rice fish) (Japanese killifish),177
+sp|P02240|LGB2_LUPLU,P02240,leghemoglobin,Lupinus luteus (European yellow lupine),154
+sp|G7KGT0|LGB8_MEDTR,G7KGT0,leghemoglobin,Medicago truncatula (Barrel medic) (Medicago tribuloides),147
+sp|Q3C1F6|LGB2_LOTJA,Q3C1F6,leghemoglobin,Lotus japonicus (Lotus corniculatus var. japonicus),146
+sp|P02238|LGB3_SOYBN,P02238,leghemoglobin,Glycine max (Soybean) (Glycine hispida),144
+sp|Q3C1F7|LGB1_LOTJA,Q3C1F7,leghemoglobin,Lotus japonicus (Lotus corniculatus var. japonicus),146
+sp|P02236|LGB4_SOYBN,P02236,leghemoglobin,Glycine max (Soybean) (Glycine hispida),145
+sp|P02237|LGB1_SOYBN,P02237,leghemoglobin,Glycine max (Soybean) (Glycine hispida),145
+sp|P02235|LGB2_SOYBN,P02235,leghemoglobin,Glycine max (Soybean) (Glycine hispida),144
+sp|Q9FEP8|LGB3_LOTJA,Q9FEP8,leghemoglobin,Lotus japonicus (Lotus corniculatus var. japonicus),147
+sp|P02233|LGB1_PEA,P02233,leghemoglobin,Pisum sativum (Garden pea) (Lathyrus oleraceus),148
+mystery_1,,unknown,unknown,147
+mystery_2,,unknown,unknown,142
+mystery_3,,unknown,unknown,147

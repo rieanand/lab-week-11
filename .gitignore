@@ -1,0 +1,5 @@
+# Generated when running the notebooks
+search_results/
+globin_ssn.graphml
+.ipynb_checkpoints/
+__pycache__/

@@ -1,0 +1,15 @@
+name: chem274A_ssn
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - biopython=1.88
+  - networkx
+  - matplotlib
+  - pandas
+  - numpy
+  - jupyterlab
+  - notebook
+  - pip
+  - pip:
+      - tmtools==0.3.0
