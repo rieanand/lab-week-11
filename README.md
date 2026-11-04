@@ -1,5 +1,7 @@
 # Lab Week 11: Sequence Similarity Networks with Biopython
 
+[Slides](https://docs.google.com/presentation/d/1PgdqqCLnB3RUA7krQhsLdLNJWBmzOEiYOjfxrf9jNf0/edit?slide=id.g3f9c62c1b5f_0_0#slide=id.g3f9c62c1b5f_0_0)
+
 In this lab you will build a **sequence similarity network (SSN)**, a graph that groups proteins by how similar
 their sequences are, entirely in Python. Web tools like the
 [EFI Enzyme Similarity Tool](https://efi.igb.illinois.edu/efi-est/) do this for you. Today you'll do each step yourself:
